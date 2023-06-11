@@ -33,3 +33,20 @@ const k = "k";
 nestedObj[k] = [];
 
 console.log(nestedObj);
+
+
+// Differences between arrays and objects
+
+const arr2 = [1, 2, 3]; // list of elements in order
+const obj2 = {a: 1, b: 2}; // a structure to store data in a pair format: key-value
+
+const obj3 = {
+  Anna: 500,
+  Lisa: 850
+}
+
+
+
+
+
+
